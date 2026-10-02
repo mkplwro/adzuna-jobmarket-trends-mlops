@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b2389fb-8986-4c7f-8781-c5e4680b6d60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/daily_collection.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/categories.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/companies.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/jobs_prepared.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/jobs_with_company_id.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/processed/locations.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/2026-10-02/jobs_wroclaw_data_analyst.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prepare_database.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/daily_collection.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/daily_collection.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/collector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
