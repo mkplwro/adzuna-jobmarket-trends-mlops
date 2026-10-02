@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b2389fb-8986-4c7f-8781-c5e4680b6d60" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/daily_collection.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/daily_collection.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/raw/2026-10-02/jobs_wroclaw_data_analyst.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/raw/2026-10-02/jobs_wroclaw_data_analyst.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collector.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/collector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
